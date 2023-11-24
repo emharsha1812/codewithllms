@@ -13,24 +13,23 @@ title: Documentation
 ### YouTube Videos
 
 - **[[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)** by Andrej Karpathy
-- **[Title of YouTube Video 2](YouTubeURL2)** by Author2
+- **[Development with Large Language Models Tutorial – OpenAI, Langchain, Agents, Chroma](https://www.youtube.com/watch?v=xZDB1naRUlk&t=6633s)** by Freecodecamp
 
 ### Articles
 
-- [Understanding the Basics of Large Language Models](URL1)
-- [The Impact of Large Language Models on NLP](URL2)
+- [A Very Gentle Introduction to Large Language Models without the Hypes](https://mark-riedl.medium.com/a-very-gentle-introduction-to-large-language-models-without-the-hype-5f67941fa59e)
+- [A Comprehensive List of Resources to Master Large Language Models](https://www.kdnuggets.com/a-comprehensive-list-of-resources-to-master-large-language-models)
 
 ### LinkedIn Posts
 
-- [Title of LinkedIn Post 1](LinkedInURL1)
-- [Title of LinkedIn Post 2](LinkedInURL2)
+- [Comprehensive Step-by-Step Study Plan for Mastering LLMs](https://www.linkedin.com/feed/update/urn:li:activity:7125102311743401985/)
+- [FREE end-to-end LLM projects (with code and guided tutorials)](https://www.linkedin.com/feed/update/urn:li:activity:7130759022332252160/)
 
 ### Books
 
-- **"Mastering Large Language Models"** by Author Name [Link to Book]
-- **"Deep Learning for Natural Language Processing"** by Author Name [Link to Book]
+- **"Generative AI with LangChain"** by Ben Auffarth [https://www.packtpub.com/product/generative-ai-with-langchain/9781835083468]
 
-### PDFs
+<!-- ### PDFs
 
 - [Large Language Models: A Comprehensive Guide](URL3)
 - [Introduction to GPT-3: Technical Whitepaper](URL4)
@@ -65,6 +64,6 @@ title: Documentation
 
 [Optional section for reflections on what you've learned, challenges faced, and goals for the future.]
 
----
+--- -->
 
-Happy learning! Feel free to continuously update this document as you progress in your journey. Best of luck! 🌟
+Happy learning! I will continuously update this document as I progress in my journey! 🌟
