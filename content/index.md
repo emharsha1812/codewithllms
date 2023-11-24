@@ -1,5 +1,5 @@
 ---
-title: A Place for Machine Learning Enthusiasts
+title: My Journey with Language Models
 ---
 
 Hey there, fellow explorers of the language universe! 👋 I'm thrilled to have you on this journey with me as I navigate the exciting realm of Large Language Models (LLMs). 🌐✨
