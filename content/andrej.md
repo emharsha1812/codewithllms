@@ -2,6 +2,8 @@
 title: Andrej's Lessons
 ---
 
+[Video Link(Click Me 🖱️)](https://www.youtube.com/watch?v=zjkBMFhNj_g&t=1511s)
+
 ### Here are the keytakeways
 
 1. LLM Training takes greater time than writing code
