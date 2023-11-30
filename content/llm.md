@@ -1,5 +1,5 @@
 ---
-title: Documentation
+title: LLM Resources
 ---
 
 # Learning Large Language Models Journey 🚀
