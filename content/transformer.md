@@ -23,4 +23,4 @@ I have built two small projects based on my learnings and compiled them in the f
 
 There is no resource more valuable than a single book that explains each of the concepts in a lucid yet comprehensive manner, covering all the aspects. Luckily, I found such a set of books for learning about transformers.
 
-- **"Transformers for Natural Language Processing"** by Denis Rothman [https://www.packtpub.com/product/transformers-for-natural-language-processing-second-edition-second-edition/9781803247335]
+_[Transformers for Natural Language Processing](https://www.packtpub.com/product/transformers-for-natural-language-processing-second-edition-second-edition/9781803247335) by Denis Rothman_

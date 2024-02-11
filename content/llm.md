@@ -28,7 +28,7 @@ title: LLM Resources
 ### Books
 
 - **"Generative AI with LangChain"** by Ben Auffarth [https://www.packtpub.com/product/generative-ai-with-langchain/9781835083468]
-- **"Understanding Large Language Models"**
+- **"Understanding Large Language Models"** by Thimira Amaratunga (The best and most concise book to get a complete understanding)
 
 <!-- ### PDFs
 
