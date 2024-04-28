@@ -9,3 +9,5 @@ This space is my digital diary, a chronicle of the highs and lows, the "aha" mom
 Expect a mix of coding snippets, reflections on challenges faced, and the occasional burst of excitement when a complex concept finally clicks. 🤓💻 Together, we'll unravel the mysteries of words, algorithms, and the incredible world of NLP.
 
 Feel free to explore, learn, and share your insights. Let's embark on this learning odyssey together!
+
+NOTE - As of February 11th 2024, a lot has happened in the field of Generative AI which is now becoming too overwhelming for me. Hence for now, I would focus on completing the Educative courses which can get me upto speed with Generative AI and everything else going on with Large Language Models. Also I would keep a list of research papers that would be continuously updated

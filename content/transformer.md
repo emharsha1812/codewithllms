@@ -2,6 +2,8 @@
 title: Transformer resources
 ---
 
+The core strength of the Transformer models is their ability to process text in parallel, increasing efficiency for language tasks. This lesson explores the intricacies of the Transformer architecture, delving into its two primary components: attention mechanisms and the encoder-decoder structure. Learning about these elements will enable us to better understand how modern LLMs like generative pre-trained transformers (GPT) function and excel in language tasks.
+
 Here is everything you need to learn about transformers ( no not the movie or the electrical ones)
 
 ##### Youtube Videos
